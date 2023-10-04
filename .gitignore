@@ -39,3 +39,4 @@ out/
 
 ## my setting
 /gradle
+/sqlite.db
